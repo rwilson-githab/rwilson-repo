@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite this repository and the upstream HARMPI software."
+title: "HARMPI GRMHD: SANE and MAD accretion experiments"
+authors:
+  - family-names: Joute
+    given-names: Robert Wilson
+repository-code: https://github.com/rwilson-githab/rwilson-repo
