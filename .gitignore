@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.o
+harm
+harmpi/
+harmpi_MAD/
+runs/
+**/dumps/
+*.log
+.env
